@@ -1,7 +1,5 @@
 ## Hallo! 👋
 
-I like working with embedded systems.
-
 <!--
 **duskje/duskje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
